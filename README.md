@@ -40,5 +40,3 @@ Tool uses TOR and rotating the ip address to avoid blocking.
 ### Donate!
 Support the authors:
 https://paypal.me/dhasirar
-https://www.instagram.com/fr.yuliia?igsh=a3Vld3pyZTFrNjBr
-@fr.yuliia
